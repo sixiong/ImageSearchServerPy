@@ -1,0 +1,400 @@
+2017-05-31,16:27:42 SOQ_build_index::Creating maps begins
+2017-05-31,16:27:45 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:27:45 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:27:45 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:27:45 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:27:49 SOQ_build_index::Inserting the data ends!
+2017-05-31,16:40:31 SOQ_build_index::Creating maps begins
+2017-05-31,16:40:35 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:40:35 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:40:35 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:40:35 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:40:40 SOQ_build_index::Inserting the data ends!
+2017-05-31,16:40:56 SOQ_build_index::Creating maps begins
+2017-05-31,16:40:59 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:40:59 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:40:59 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:40:59 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:41:04 SOQ_build_index::Inserting the data ends!
+2017-05-31,16:41:50 SOQ_build_index::Creating maps begins
+2017-05-31,16:41:54 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:41:54 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:41:54 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:41:54 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:41:59 SOQ_build_index::Inserting the data ends!
+2017-05-31,16:42:35 SOQ_build_index::Creating maps begins
+2017-05-31,16:42:40 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:42:40 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:42:40 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:42:40 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:42:45 SOQ_build_index::Inserting the data ends!
+2017-05-31,16:49:31 SOQ_build_index::Creating maps begins
+2017-05-31,16:49:35 SOQ_build_index::Creating maps ends
+
+2017-05-31,16:49:35 SOQ_build_index::Creating the empty index begins
+2017-05-31,16:49:35 SOQ_build_index::Creating the empty index is over
+2017-05-31,16:49:35 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,16:49:40 SOQ_build_index::Inserting the data ends!
+2017-05-31,19:22:36 SOQ_build_index::Creating maps begins
+2017-05-31,19:22:41 SOQ_build_index::Creating maps ends
+
+2017-05-31,19:22:41 SOQ_build_index::Creating the empty index begins
+2017-05-31,19:22:41 SOQ_build_index::Creating the empty index is over
+2017-05-31,19:22:41 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,19:22:46 SOQ_build_index::Inserting the data ends!
+2017-05-31,19:27:43 SOQ_build_index::Creating maps begins
+2017-05-31,19:27:47 SOQ_build_index::Creating maps ends
+
+2017-05-31,19:27:47 SOQ_build_index::Creating the empty index begins
+2017-05-31,19:27:47 SOQ_build_index::Creating the empty index is over
+2017-05-31,19:27:47 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,19:27:52 SOQ_build_index::Inserting the data ends!
+2017-05-31,20:34:18 SOQ_build_index::Creating maps begins
+2017-05-31,20:34:22 SOQ_build_index::Creating maps ends
+
+2017-05-31,20:34:22 SOQ_build_index::Creating the empty index begins
+2017-05-31,20:34:22 SOQ_build_index::Creating the empty index is over
+2017-05-31,20:34:22 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,20:34:27 SOQ_build_index::Inserting the data ends!
+2017-05-31,21:22:52 SOQ_build_index::Creating maps begins
+2017-05-31,21:22:56 SOQ_build_index::Creating maps ends
+
+2017-05-31,21:22:56 SOQ_build_index::Creating the empty index begins
+2017-05-31,21:22:56 SOQ_build_index::Creating the empty index is over
+2017-05-31,21:22:56 SOQ_build_index::Inserting the data begins!
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5168.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5169.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5171.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5172.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5173.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5174.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5175.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5176.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5177.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5178.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5179.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5181.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5182.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5183.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5184.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5187.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5188.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5190.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5194.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5197.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5201.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5203.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5206.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5207.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5208.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5209.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5210.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5211.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5212.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5213.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5214.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5215.txt
+Inserting /home/hadoop/Snooker/SOQ_Image_Search/vsurf/New/surf_Video_5216.txt
+2017-05-31,21:23:01 SOQ_build_index::Inserting the data ends!
